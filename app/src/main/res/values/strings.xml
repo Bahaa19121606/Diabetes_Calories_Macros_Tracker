@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">beatingbetes</string>
+    <string name="post_meal_channel_name">Glucose check reminders</string>
+    <string name="post_meal_channel_description">Reminds you to check your glucose after meals, corrections and during carb-ratio tests.</string>
+    <string name="post_meal_notification_title">Time for your post-meal glucose check</string>
+    <string name="post_meal_notification_text">2 hours have passed. Tap to log your reading.</string>
+    <string name="carb_test_notification_title">Carb ratio test: %1$d-hour check</string>
+    <string name="carb_test_notification_text">Measure your glucose now and enter it in the test.</string>
+    <string name="correction_check_notification_title">Check how your correction worked</string>
+    <string name="correction_check_notification_text">3 hours have passed since your correction. Tap to log your reading.</string>
+</resources>
